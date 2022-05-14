@@ -3,6 +3,17 @@
     --main-color:#f25454 ;
 }
 
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover
+{
+    color: var(--main-color);
+}
+
 #services .title h3
 {
     font-weight: 900;
@@ -52,6 +63,7 @@
     font-weight: 100;
     font-size: 16;
 }
+<<<<<<< HEAD
 *
 {
     transition: all 0.15s ease;
@@ -173,3 +185,26 @@ section .container {
     font-weight: 500;
 }
 /* ****end od progress */
+=======
+
+.newsSec
+{
+    background-color: #f9f9f9;
+}
+
+.newsHeader p
+{
+    color: var(--main-color);
+}
+
+.newsContent img
+{
+    width: 400px;
+    height: 350px;
+}
+
+.newsContent img:hover
+{
+    transform: scale(1.2) rotate(10deg);
+}
+>>>>>>> 1be1ca1fc4d41021ca79fd14febcc5c1f3124a13
