@@ -1,0 +1,54 @@
+:root
+{
+    --main-color:#f25454 ;
+}
+
+#services .title h3
+{
+    font-weight: 900;
+    font-size: 60;
+    color: rgba(0 ,0 , 0 ,0.1);
+}
+
+#services .title h2
+{
+    font-weight: 700;
+    font-size: 38;
+}
+#services .line
+{
+    width: 5%;
+    height: 1px;
+    background-color: black;
+}
+#services
+{
+    background-color: #fafafa;
+}
+#services .icon 
+{
+    color: var(--main-color);
+    font-size: 32px;
+}
+
+#services .project-items h3
+{
+    transition: 1s;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16;
+
+    
+}
+#services .project-items:hover h3
+{
+    color: var(--main-color);
+
+}
+
+#services .project-items p
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16;
+}
