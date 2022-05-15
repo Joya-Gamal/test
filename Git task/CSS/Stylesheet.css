@@ -1,0 +1,89 @@
+.x {
+    font-size: 17px;
+
+}
+:root{
+    --color:red;
+}
+.ic{
+   transform:translatey(50%);
+   margin-left:30px;
+   font-size: 23px;
+}
+.btn{
+background-color:#61CE70;
+margin-left:30px;
+width:150px;
+}
+.tp{
+    background-color:gray !important;
+}
+x ::after{
+    color:#61CE70 !important;
+}
+.right li:hover{
+    color:#61CE70;
+}
+.btn:hover{
+    background-color: black;
+}
+.ic1:hover{
+background-color: #C13584;
+height:30px;
+}
+.ic2:hover{
+    background-color: #BB0000;
+    height:30px;
+}
+.ic3:hover{
+    background-color:#0077B5 ;
+    height:30px;
+ }
+.ic4:hover{
+    background-color: #3B59B6;
+    height:30px;
+ }
+ .Egypt{
+     color:#61CE70;
+    transform:translatey(30%);
+    margin-left:40px;
+    padding-left:45px;
+    font-size:40px;
+ }
+ .Egypt2{
+    transform:translatey(30%);
+    margin-left:40px;
+    padding-left:45px;
+    font-size:19px;
+ }
+ .btn2{
+transform: translateX(20%);
+transform: translateY(100%);
+     margin-top: 49px;
+     margin-left:49px;
+     text-align: center;
+    width:270px;
+    border-radius:2px;
+    border: none;
+    height:35px;
+ }
+ .slider{
+
+ transform: translateY(6%);
+ }
+.btn2:hover{
+     background-color:#61CE70;
+ }
+ .im1{
+     margin-top:47px;
+     margin-right:20px;
+    transform:translateX(-100%);
+ }
+.im2{
+transform:translateX(350%);
+}
+.im3{
+    width: 300px !important;
+    height: 100px !important;
+    margin:auto;
+}

@@ -1,0 +1,25 @@
+.writeone{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Impact;
+}
+.btn {
+    position: absolute;
+    background-color: blue;
+    width:300px !important;
+    top:250px;
+    transform:translateX(480px);
+    font-size: 30px;
+    border:2px solid black;
+    height: 90px !important;
+}
+.btn:hover{
+    background-color: green;
+}
+.head{
+    position: relative;
+}
+.qutes{
+    font-size:20px;
+    padding-top:40px;
+}
